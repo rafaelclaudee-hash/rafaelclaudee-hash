@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Leal 👋
+# Olá, eu sou o Rafael Leal 
 
 Estudante de **Engenharia de Software** na Universidade Positivo (Curitiba/PR) e Jovem Aprendiz na Toyota.
 Meu objetivo é me tornar **oficial do Exército Brasileiro atuando em segurança da informação e defesa cibernética**.
@@ -7,7 +7,7 @@ Uno formação técnica em desenvolvimento de software com preparação militar 
 
 ---
 
-### 🛠️ Habilidades
+### Habilidades
 
 **Uso em projetos:** JavaScript · TypeScript · Node.js · Express · PostgreSQL · Next.js · React · APIs REST · JWT e bcrypt · Git/GitHub · Figma
 
@@ -17,7 +17,7 @@ Uno formação técnica em desenvolvimento de software com preparação militar 
 
 ---
 
-### 📂 Projetos em destaque
+###  Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
@@ -26,7 +26,7 @@ Uno formação técnica em desenvolvimento de software com preparação militar 
 
 ---
 
-### 🎯 Estudando agora
+###  Estudando agora
 
 - Introdução à Cibersegurança e Fundamentos de Redes (Cisco Networking Academy)
 - Linux Essentials (LPI)
@@ -34,7 +34,7 @@ Uno formação técnica em desenvolvimento de software com preparação militar 
 
 ---
 
-### 📫 Contato
+###  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Leal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-leal-8704b0339)
 [![E-mail](https://img.shields.io/badge/E--mail-contato-D14836?logo=gmail&logoColor=white)](mailto:rafaelclaudee@gmail.com)
