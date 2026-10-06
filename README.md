@@ -3,13 +3,13 @@
 Estudante de **Engenharia de Software** na Universidade Positivo (Curitiba/PR) e Jovem Aprendiz na Toyota.
 Meu objetivo é me tornar **oficial do Exército Brasileiro atuando em segurança da informação e defesa cibernética**.
 
-Uno formação técnica em desenvolvimento de software com preparação militar voltada à liderança: estou em processo de seleção para o NPOR (Núcleo de Preparação de Oficiais da Reserva) e mantenho aqui meus projetos e um laboratório público de estudos em cibersegurança.
+Uno formação técnica em desenvolvimento de software com preparação militar voltada à liderança: estou em processo de seleção para o NPOR (Núcleo de Preparação de Oficiais da Reserva) e publico aqui meus projetos.
 
 ---
 
 ### 🛠️ Habilidades
 
-**Uso em projetos:** JavaScript · Node.js · Express · APIs REST · JWT e bcrypt · HTML/CSS · React · Git/GitHub · Vercel · Railway · Figma
+**Uso em projetos:** JavaScript · TypeScript · Node.js · Express · PostgreSQL · Next.js · React · APIs REST · JWT e bcrypt · Git/GitHub · Figma
 
 **Em desenvolvimento:** Linux · Redes (TCP/IP) · Fundamentos de segurança da informação · Python
 
@@ -21,8 +21,8 @@ Uno formação técnica em desenvolvimento de software com preparação militar 
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**Cabe Tudo**](https://github.com/rafaelclaudee-hash/cabe-tudo-dropship) | E-commerce de dropshipping com checkout PIX, contas de clientes e webhook de pagamento validado por token | Node.js, Express, PostgreSQL, Next.js, TypeScript |
 | [**VEXO**](https://github.com/rafaelclaudee-hash/vexo) | Protótipo de app de fretes com telas, design system e fluxo navegável | Figma, UI/UX |
-| [**Lab de Cibersegurança**](https://github.com/rafaelclaudee-hash/lab-ciberseguranca) | Registro semanal de laboratórios práticos, anotações de redes e Linux e scripts de apoio | Linux, Python, TryHackMe |
 
 ---
 
